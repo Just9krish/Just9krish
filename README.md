@@ -13,15 +13,14 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e2128d31c46772330ca660fd11bcde6c15dedf3492317802d3d1a7d82a918742/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6861696b616c6d6f6c26636f6c6f723d626c7565267374796c653d666c61742d737175617265"><img src="https://komarev.com/ghpvc/?username=just9krish&label=Profile%20views&color=0e75b6&style=flat" data-canonical-src="https://komarev.com/ghpvc/?username=just9krish&label=Profile%20views&color=0e75b6&style=flat" style="max-width: 100%;" align="left"></a></p>
 <br>
 <br>
-<p>Hi, I'm <a href="https://www.linkedin.com/in/amit-vishwakarma-bb54b222a/">Amit</a> , Junior Web Programmer. Learn very much of web programming language and curious about new stack of programming. Experience in freelance and remote work. Responsible, wondering, and hard working. Client satisfaction is number one.
+<p>Hi, I'm <a href="https://www.linkedin.com/in/amit-vishwakarma-bb54b222a/">Just9krish</a> , Junior Web Programmer. Learn very much of web programming language and curious about new stack of programming. Experience in internship remote work. Responsible, wondering, and hard working. Client satisfaction is number one.
 <br>
   <br>
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="490" height="338" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 ### I am a Aspiring Full Stack Developer
 - 💬 Ask me about anything, Let we discuss together!
 - 📬 How to reach me <a href=mailto:rvamit2648@gmai.com><i>rvamit2648@gmail.com</i></a>
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 ### Languages and Tools: 
 
