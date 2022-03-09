@@ -16,7 +16,7 @@
 <p>Hi, I'm <a href="https://www.linkedin.com/in/amit-vishwakarma-bb54b222a/">Amit</a> , Junior Web Programmer. Learn very much of web programming language and curious about new stack of programming. Experience in freelance and remote work. Responsible, wondering, and hard working. Client satisfaction is number one.
 <br>
   <br>
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 ### I am a Aspiring Full Stack Developer
 - 💬 Ask me about anything, Let we discuss together!
