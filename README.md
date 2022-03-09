@@ -63,10 +63,17 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;"></a></p>
 
-### Github Stats
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=just9krish&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="just9krish" width="60%" /></p>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just9krish&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Just9krish Top Languages">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just9krish&" alt="just9krish" /></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My GitHub Stats</p>
+<table border="0" align="center">
+<tbody><tr border="0">
+<td width="50%" align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1f3880cbaeab783fad6e1696d8a2f3bd3b974d5b98e2d7fd46320e546d7babea/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6861696b616c6d6f6c267468656d653d746f6b796f6e696768742673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565"><img src="https://github-readme-stats.vercel.app/api?username=just9krish&amp;theme=tokyonight&amp;show_icons=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=just9krish&amp;theme=tokyonight&amp;show_icons=true&amp;count_private=true" style="max-width: 100%;" align="middle"></a>
+  <br><br>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f006f0946a4d6024d699346230d85014aa34d89726237da2211eac05d3ae61e7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6861696b616c6d6f6c267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=just9krish&amp;theme=tokyonight&amp;hide_border=true" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=just9krish&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;"></a>
+</td>
+<td width="50%" align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9b84a56a4cf9eef534a32f644d65566cb26cfea2263cafa8882fd58d4e932d85/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6861696b616c6d6f6c267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565266e6f2d62673d74727565266e6f2d6672616d653d74727565266c616e67735f636f756e743d3130"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=just9krish&amp;theme=tokyonight&amp;hide_border=true&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10" data-canonical-src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=just9krish&amp;theme=tokyonight&amp;hide_border=true&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10" style="max-width: 100%;" align="middle"></a>
+  </td>
+</tr>
+</tbody></table>
+ 
