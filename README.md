@@ -16,8 +16,7 @@
 <br />
 <br />
 
-Hi, I'm [Just9krish](https://www.linkedin.com/in/amit-vishwakarma-bb54b222a/), Junior Web Programmer. Learn very much
-of web programming language and curious about new stack of
+Hi, I'm [Just9krish](https://www.linkedin.com/in/amit-vishwakarma-bb54b222a/), Junior Web Programmer. Learning a web programming language and curious about new stack of
 programming. Experience in internship and remote work.
 Responsible, wondering, and hard working. Client satisfaction is
 number one.
