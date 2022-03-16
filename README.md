@@ -42,7 +42,7 @@ number one.
 📊 **Quote Of The Day is:**
 <!--START_SECTION:waka-->
 ```text
-No Bug No Life.
+Quantity before quality.
 ```
 <!--END_SECTION:waka-->
 
