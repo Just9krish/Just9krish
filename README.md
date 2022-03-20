@@ -1,15 +1,15 @@
 <!--   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  --> 
  ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/ig_ryuga">
+<a href="https://www.instagram.com/ig_ryuga" target="_blank">
   <img align="left" alt="just9krish's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
-<a href="https://twitter.com/rvamit2648">
+<a href="https://twitter.com/rvamit2648" target="_blank">
   <img align="left" alt="Just9krish's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/amit-vishwakarma-bb54b222a/">
+<a href="https://www.linkedin.com/in/amit-vishwakarma-bb54b222a/" target="_blank">
   <img align="left" alt="Just9krish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://codepen.io/just9krish" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="just9krish" style="max-width: 100%;" width="22px" align="left" /></a>
+<a href="https://codepen.io/just9krish" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="just9krish" style="max-width: 100%;" width="22px" align="left" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=just9krish&color=blue&style=flat-square" align="left" />
 
