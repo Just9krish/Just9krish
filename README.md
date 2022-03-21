@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/amit-vishwakarma-bb54b222a/" target="_blank">
   <img align="left" alt="Just9krish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://codepen.io/just9krish" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="just9krish" style="max-width: 100%;" width="22px" align="left" /></a>
+<a href="https://codepen.io/just9krish" target="_blank"><svg align="left" xmlns="http://www.w3.org/2000/svg" width="22px" enable-background="new 0 0 32 32" viewBox="0 0 32 32"><path fill="#e3f8fa" d="m26 32h-20c-3.314 0-6-2.686-6-6v-20c0-3.314 2.686-6 6-6h20c3.314 0 6 2.686 6 6v20c0 3.314-2.686 6-6 6z"/><path fill="#26c6da" d="m8.303 19.008 7.313 4.876c.249.153.516.155.768 0l7.313-4.876c.187-.125.303-.348.303-.571v-4.875c0-.223-.116-.447-.303-.571l-7.313-4.875c-.249-.153-.516-.155-.768 0l-7.313 4.875c-.187.124-.303.348-.303.571v4.875c0 .223.116.446.303.571zm7.01 3.019-5.384-3.589 2.402-1.607 2.982 1.991zm1.374 0v-3.205l2.982-1.991 2.402 1.607zm5.938-4.876-1.723-1.151 1.723-1.152zm-5.938-7.178 5.384 3.589-2.402 1.607-2.982-1.991zm-.687 4.401 2.429 1.625-2.429 1.626-2.429-1.625zm-.687-4.401v3.205l-2.982 1.991-2.402-1.607zm-5.938 4.876 1.724 1.151-1.723 1.152v-2.303z"/></svg></a>
 
 <img src="https://komarev.com/ghpvc/?username=just9krish&color=blue&style=flat-square" align="left" />
 
