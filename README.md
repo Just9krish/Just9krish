@@ -6,12 +6,12 @@
 <a href="https://twitter.com/rvamit2648" target="_blank">
   <img align="left" alt="Just9krish's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<!-- <a href="https://www.linkedin.com/in/amit-vishwakarma-bb54b222a/" target="_blank">
-  <img align="left" alt="Just9krish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
 <a href="https://www.linkedin.com/in/amit-vishwakarma-bb54b222a/" target="_blank">
-  <img align="left" alt="Just9krish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/codepen.svg" />
+  <img align="left" alt="Just9krish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<!-- <a href="https://www.linkedin.com/in/amit-vishwakarma-bb54b222a/" target="_blank">
+  <img align="left" alt="Just9krish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/codepen.svg" />
+</a> -->
 
 <img src="https://komarev.com/ghpvc/?username=just9krish&color=blue&style=flat-square" align="left" />
 
