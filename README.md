@@ -9,9 +9,9 @@
 <a href="https://www.linkedin.com/in/amit-vishwakarma-bb54b222a/" target="_blank">
   <img align="left" alt="Just9krish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="https://www.linkedin.com/in/amit-vishwakarma-bb54b222a/" target="_blank">
-  <img align="left" alt="Just9krish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/codepen.svg" />
-</a> -->
+<a href="https://codepen.io/Just9Krish" target="_blank">
+  <img align="left" alt="Just9krish's LinkedIN" width="22px" src="https://github.com/Just9krish/Just9krish/blob/9314a8e124be4b6f8e391d3487f5a353a71ee946/icons/codepen-svgrepo-com.svg" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=just9krish&color=blue&style=flat-square" align="left" />
 
@@ -44,7 +44,7 @@ number one.
 📊 **Quote Of The Week is:**
 <!--START_SECTION:waka-->
 ```text
-Quantity before quality.
+Don't follow crowd.
 ```
 <!--END_SECTION:waka-->
 
