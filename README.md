@@ -45,7 +45,7 @@ number one.
 📊 **Quote Of The Week is:**
 <!--START_SECTION:waka-->
 ```text
-Don't follow crowd.
+Repetation is mother of learning.
 ```
 <!--END_SECTION:waka-->
 
