@@ -39,8 +39,8 @@ number one.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/0271cd96778c3ce46ad4af5054f39b18e13a85ce/icons/vscode-svgrepo-com.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<!-- <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/0271cd96778c3ce46ad4af5054f39b18e13a85ce/icons/npm-svgrepo-com%20(1).svg"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> -->
+<code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/0271cd96778c3ce46ad4af5054f39b18e13a85ce/icons/npm-svgrepo-com%20(1).svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 📊 **Quote Of The Week is:**
 <!--START_SECTION:waka-->
