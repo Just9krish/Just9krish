@@ -45,7 +45,8 @@ number one.
 📊 **Quote Of The Week is:**
 <!--START_SECTION:waka-->
 ```text
-Never memorize something that you can look up.
+Truth can only be found in one place: the code.
+
 ```
 <!--END_SECTION:waka-->
 
