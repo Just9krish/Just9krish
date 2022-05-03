@@ -45,8 +45,7 @@ number one.
 📊 **Quote Of The Week is:**
 <!--START_SECTION:waka-->
 ```text
-Truth can only be found in one place: the code.
-
+Rejection is injection.
 ```
 <!--END_SECTION:waka-->
 
