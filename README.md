@@ -36,6 +36,7 @@ number one.
 <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/0271cd96778c3ce46ad4af5054f39b18e13a85ce/icons/bootstrap-svgrepo-com.svg"></code>
 <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/e5b12acdc0814cb70bd204ef97146d2aff358fee/icons/tailwindcss-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img heigth="20" src="https://github.com/Just9krish/Just9krish/blob/316f2fa803a75aa3d9e197d882b61eda04bb1e6f/icons/sass-svgrepo-com.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/0271cd96778c3ce46ad4af5054f39b18e13a85ce/icons/vscode-svgrepo-com.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
