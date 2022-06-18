@@ -1,5 +1,5 @@
 <!--   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  --> 
- ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height= "25px" width="25px">
 <a href="https://www.instagram.com/ig_ryuga" target="_blank">
   <img align="left" alt="just9krish's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
@@ -23,7 +23,7 @@ programming. Experience in internship and remote work.
 Responsible, wondering, and hard working. Client satisfaction is
 number one.
 
-  <img align="right" style="margin-left: 10px" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" height="300" />
+  <img align="right" style="margin-left: 10px" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="430" height="300" />
 
 ### I am Aspiring Full Stack Developer
 - 💬 Ask me about anything, Let we discuss together!
