@@ -23,7 +23,7 @@ programming. Experience in internship and remote work.
 Responsible, wondering, and hard working. Client satisfaction is
 number one.
 
-  <img align="right" style="margin-left: 10px" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="430" height="300" />
+  <img align="right" style="margin-left: 10px" alt="GIF" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b95271fd8f2e4e9701962bbcb9bd43d3f3d22690170d&rid=giphy.gif&ct=g" width="430" height="300" />
 
 ### I am Aspiring Full Stack Developer
 - 💬 Ask me about anything, Let we discuss together!
