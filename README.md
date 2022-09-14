@@ -47,7 +47,7 @@ number one.
 📊 **Quote Of The Week is:**
 <!--START_SECTION:waka-->
 ```text
-Rejection is injection.
+Consistency isn't about making no mistake, it's about never give up.
 ```
 <!--END_SECTION:waka-->
 
