@@ -41,13 +41,13 @@ number one.
 <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/2e7b4557479cf984f21cb35a15bc21bb0005f908/icons/java-svgrepo-com.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/0271cd96778c3ce46ad4af5054f39b18e13a85ce/icons/npm-svgrepo-com%20(1).svg"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> -->
 
 📊 **Quote Of The Week is:**
 <!--START_SECTION:waka-->
 ```text
-Consistency isn't about making no mistake, it's about never give up.
+Just one laptop with internet is enough
 ```
 <!--END_SECTION:waka-->
 
