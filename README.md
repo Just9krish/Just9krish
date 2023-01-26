@@ -22,7 +22,7 @@
  </table>
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=rvamit2648)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=rvamit2648)](https://github.com/VishwaGauravIn/github-twitter-card-embed&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
