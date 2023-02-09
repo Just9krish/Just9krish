@@ -45,7 +45,7 @@ Greetings! I'm a web developer on a quest to constantly expand my skills and pus
 📊 **Quote Of The Week is:**
 <!--START_SECTION:waka-->
 ```text
-Just one laptop with internet is enough
+I'll leave tomorrow's problems to tomorrow's me.
 ```
 <!--END_SECTION:waka-->
 
