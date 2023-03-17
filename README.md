@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Greetings! I'm a web developer on a quest to constantly expand my skills and push the boundaries of what's possible. With a passion for coding and a love for problem-solving, I'm dedicated to continuously improving my skills and exploring new technologies. When I'm not coding, I indulge in my hobbies of anime and gaming, which have taught me valuable lessons in teamwork and strategy. I believe these passions bring a unique perspective to my coding and I strive to incorporate these skills into my projects.
+Greetings! I'm a web developer on a quest to constantly expand my skills and push the boundaries of what's possible. When I'm not coding, I indulge in my hobbies of anime and gaming, which have taught me valuable lessons in teamwork and strategy. I believe these passions bring a unique perspective to my coding and I strive to incorporate these skills into my projects.
 <br />
 
   <img align="right" style="margin-left: 10px" alt="GIF" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b95271fd8f2e4e9701962bbcb9bd43d3f3d22690170d&rid=giphy.gif&ct=g" width="430" height="300" />
