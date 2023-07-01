@@ -31,13 +31,13 @@ Greetings! I'm a web developer on a quest to constantly expand my skills and pus
 
 <!-- <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/0271cd96778c3ce46ad4af5054f39b18e13a85ce/icons/html-5-svgrepo-com.svg"></code> -->
 <!-- <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/0271cd96778c3ce46ad4af5054f39b18e13a85ce/icons/css3-logo-svgrepo-com.svg"></code> -->
+<!-- <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/2e7b4557479cf984f21cb35a15bc21bb0005f908/icons/java-svgrepo-com.svg"></code> -->
 <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/0271cd96778c3ce46ad4af5054f39b18e13a85ce/icons/bootstrap-svgrepo-com.svg"></code>
 <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/e5b12acdc0814cb70bd204ef97146d2aff358fee/icons/tailwindcss-icon.svg"></code>
 <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/316f2fa803a75aa3d9e197d882b61eda04bb1e6f/icons/sass-svgrepo-com.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/dac33642d1b25c54567b02564a671925947dd3da/icons/reactjs-icon.png"></code>
-<!-- <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/2e7b4557479cf984f21cb35a15bc21bb0005f908/icons/java-svgrepo-com.svg"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://github.com/Just9krish/Just9krish/blob/0271cd96778c3ce46ad4af5054f39b18e13a85ce/icons/npm-svgrepo-com%20(1).svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
